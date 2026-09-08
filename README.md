@@ -12,7 +12,7 @@ An end-to-end machine learning project for predicting customer churn in the tele
 
 The interactive Streamlit application allows users to enter customer information and receive a real-time churn prediction.
 
-**Live Demo:** Coming soon
+**Live Demo:** [Telecom Customer Churn Prediction App](https://telecom-customer-churn-prediction-ml.streamlit.app/)
 
 ## 🎯 Project Overview
 
